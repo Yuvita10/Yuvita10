@@ -1,16 +1,20 @@
 ## Hi there 👋
+Hello, I'm Yuvita Bhagat!
 
-<!--
-**Yuvita10/Yuvita10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a BCA graduate with a passion for full-stack development. I'm currently learning and building projects to enhance my skills.
 
-Here are some ideas to get you started:
+## Projects
+* **[FoodFusion Restaurant Website](link)**: A website built using HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* **Programming Languages:** JavaScript, HTML/CSS
+* **Technologies:** Full-stack development
+
+## Stats
+[![Yuvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)](https://github.com/yourgithubusername/github-readme-stats)
+
+## Contactom)
+* **LinkedIn:** [your LinkedIn profile](link)
+
+## Thanks for visiting 
